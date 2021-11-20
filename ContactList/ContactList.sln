@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactList", "ContactList\ContactList.csproj", "{32544E51-2489-470A-A40B-64629FE01B72}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ContactInst", "ContactInst\ContactInst.vdproj", "{4AFAD0B9-91F5-4DC1-9BD5-E367139E29FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32544E51-2489-470A-A40B-64629FE01B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32544E51-2489-470A-A40B-64629FE01B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32544E51-2489-470A-A40B-64629FE01B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32544E51-2489-470A-A40B-64629FE01B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AFAD0B9-91F5-4DC1-9BD5-E367139E29FD}.Debug|Any CPU.ActiveCfg = Debug
+		{4AFAD0B9-91F5-4DC1-9BD5-E367139E29FD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE808549-67D9-44D9-9B47-BA179CFEEB07}
+	EndGlobalSection
+EndGlobal
