@@ -1,0 +1,93 @@
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\TextEditor.exe
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\TextEditor.deps.json
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\TextEditor.runtimeconfig.json
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\TextEditor.runtimeconfig.dev.json
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\TextEditor.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\ref\TextEditor.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\TextEditor.pdb
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\SQLite-net.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\Views\LoginWindow.g.cs
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\Views\NotesWindow.g.cs
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\Views\RegisterWindow.g.cs
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor_MarkupCompile.cache
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor_MarkupCompile.lref
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\Views\LoginWindow.baml
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\Views\NotesWindow.baml
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\Views\RegisterWindow.baml
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.g.resources
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.AssemblyInfoInputs.cache
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.AssemblyInfo.cs
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.csproj.CopyComplete
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\ref\TextEditor.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.pdb
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.genruntimeconfig.cache
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.csproj.AssemblyReference.cache
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\Serilog.dll
+C:\Users\Holubev\Desktop\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\Serilog.Sinks.File.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\TextEditor.exe
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\TextEditor.deps.json
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\TextEditor.runtimeconfig.json
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\TextEditor.runtimeconfig.dev.json
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\TextEditor.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\ref\TextEditor.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\TextEditor.pdb
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\Serilog.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\Serilog.Sinks.File.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\SQLite-net.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.csproj.AssemblyReference.cache
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\Views\LoginWindow.g.cs
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\Views\NotesWindow.g.cs
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\Views\RegisterWindow.g.cs
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor_MarkupCompile.cache
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor_MarkupCompile.lref
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\Views\LoginWindow.baml
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\Views\NotesWindow.baml
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\Views\RegisterWindow.baml
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.g.resources
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.AssemblyInfoInputs.cache
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.AssemblyInfo.cs
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\ref\TextEditor.dll
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.pdb
+C:\Users\max\Downloads\22.11.21 (1)\22.11.21\PV016_WPF\TextEditor\TextEditor\obj\Debug\net5.0-windows\TextEditor.genruntimeconfig.cache

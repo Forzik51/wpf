@@ -1,0 +1,8 @@
+2021-11-24 20:38:55.110 +02:00 [INF] Hello, This is my log!
+2021-11-24 20:38:55.206 +02:00 [DBG] Dividing sef by sef
+2021-11-24 20:38:58.449 +02:00 [INF] Hello, This is my log!
+2021-11-24 20:38:58.455 +02:00 [DBG] Dividing sef by sefsefsef
+2021-11-24 20:39:01.369 +02:00 [INF] Hello, This is my log!
+2021-11-24 20:39:01.374 +02:00 [DBG] Dividing sefsefsef by sefsefsef
+2021-11-24 20:39:06.394 +02:00 [INF] Hello, This is my log!
+2021-11-24 20:39:06.398 +02:00 [DBG] Dividing sef by esf
